@@ -1,7 +1,11 @@
-<script>
+<script context="module">
 	import '../global.css';
 	import 'chota/dist/chota.css';
+	import Header from '../components/Header.svelte'
 </script>
+
+
+<Header/>
 
 <main>
 	<slot />

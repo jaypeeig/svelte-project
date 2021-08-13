@@ -21,7 +21,6 @@
 
 <section>
 	<h1>Error <sup>{title}</sup></h1>
-  <a href="/">Back to hom<sup>e</sup>page</a>
 	<code>
 		{message}
 	</code>
@@ -35,14 +34,5 @@
 		align-items: center;
 		flex: 1;
 	}
-
-	a {
-		margin: 10px;
-	}
-	section a:hover{
-		text-decoration: none;
-		text-shadow: 1px 1px var(--primary-color);
-	}
-
 
 </style>

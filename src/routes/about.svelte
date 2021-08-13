@@ -8,8 +8,7 @@
 
 <section>
 	<h1>
-		
-    Abo<sup>ut</sup>
+    About page
 	</h1>
 
 	<h2>

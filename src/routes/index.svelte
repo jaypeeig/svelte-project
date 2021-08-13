@@ -8,12 +8,10 @@
 
 <section>
 	<h1>
-		Hom<sup>e</sup>page
+		Home<sup>e</sup>page
 	</h1>
 
-	<h2>
-		projects collection
-	</h2>
+	<p>project collections</p>
 </section>
 
 <style>

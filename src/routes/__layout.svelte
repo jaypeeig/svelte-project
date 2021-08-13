@@ -1,5 +1,6 @@
 <script>
-	import '../app.css';
+	import '../global.css';
+	import 'chota/dist/chota.css';
 </script>
 
 <main>
